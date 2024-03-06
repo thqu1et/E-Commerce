@@ -1,2 +1,6 @@
-package com.thqu1et.e_commerces.config;public class JwtConstant {
+package com.thqu1et.e_commerces.config;
+
+public class JwtConstant {
+    public static final String SECRET_KEY = "qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop";
+    public static final String  JWT_HEADER = "Authorization";
 }
